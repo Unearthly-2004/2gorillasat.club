@@ -1,4 +1,4 @@
-# 2gorillasat.club
+# 2gorillasat.club | GreenClick
 Project checkpoint 1 hackbyte 2.0
 
 # Project Description
@@ -24,6 +24,10 @@ The platform offers a range of features, including:
 - *Collaboration Marketplace:* A space where communities can post collaboration requests or offers, fostering partnerships and joint ventures.
 
 - *Resource Library:* Access to a comprehensive repository of articles, guides, templates, and tools to support community growth and sustainability.
+
+## The link to the project
+
+-https://devfolio.co/projects/greenclick-0bb6
 
 
 
